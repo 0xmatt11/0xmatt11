@@ -1,7 +1,12 @@
-Welcome to my **current GitHub account** — this is where all new projects and updates will live going forward.
+## 👋 Welcome
 
-### ⚠️ Important Note
-I previously used another GitHub account, but I’ve **lost access** to it.  
-For transparency, you can view my old profile here:
+This is my **current GitHub account**, where all new projects, experiments, and ongoing work will be published and maintained.
 
-👉 [Old GitHub Account — @0xmatt1](https://github.com/0xmatt1)
+### ℹ️ Account Transition Notice
+
+I previously contributed under a different GitHub account but no longer have access to it.  
+For transparency and reference, the old profile remains publicly visible:
+
+- **Former account:** [@0xmatt1](https://github.com/0xmatt1)
+
+All active development and future updates will occur here.
